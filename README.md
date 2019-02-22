@@ -26,3 +26,11 @@ Fairy type, P/S Split, and new moves and abilities from:
 MrDollSteak's Decap. and Attack Rombase
 
 https://www.pokecommunity.com/showthread.php?t=326301
+
+Tools Used:
+- Gen 3 Tools
+- Gen III Suite
+- Hopeless Trainer Editor
+- AdvanceMap 1.92/1.95
+- XSE
+- HxD Hex Editor
