@@ -1,0 +1,63 @@
+<<<===--- Better FireRed ---===>>>
+
+Version History
+
+0.1
+	Applied MrDollSteaks Decap and Attack Rombase Patch
+0.2
+	Updated sprites for Gen I Pokemon
+0.3
+	Updated sprites for Gen II Pokemon
+0.4
+	Improved Elite Four and Gym Leaders
+0.5
+	Updated sprites for Gen III Pokemon
+0.6
+	Enabled National Dex from beginning
+		Created scientist outside of Oak's Lab, script at 0x800000
+	Infinite use TMs
+		Changed 0x124EA0 from A9 to 90
+		Changed 0x124F6C from A9 to 90
+	Running indoors
+		Changed 0xBD494 from 08 to 00
+0.7
+	Changed wild Pokemon for:
+		Route 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12 (grass)
+0.7.1
+	Changed wild Pokemon for:
+		Route 12 (water), 13, 14, 15, 16, 17, 18
+		Viridian Forest, Mt. Moon, Rock Tunnel, Pokemon Tower, Power Plant, Safari Zone, Mt. Ember
+	Changed Altering Cave to Ancient Cave
+0.7.2
+	Added pond to Viridian Forest
+	Fixed water encounters in Route 6
+	Changed wild Pokemon for:
+		Route 25, 24, 23, 22, 21
+0.7.3
+	Changed wild Pokemon for:
+		Victory Road, Cerulean Cave, Icefall Cave
+	Changed evolution methods for:
+		Umbreon (Moon Stone)
+		Espeon (Sun Stone)
+		Machamp (Level Up)
+		Golem (Level Up)
+		Alakazam (Level Up)
+		Gengar (Level Up)
+		Poliwrath (Level Up)
+		Politoed (Water Stone)
+		Slowking (Water Stone)
+		Steelix (Level Up)
+		Kingdra (Water Stone)
+		Scizor (Level Up)
+		Porygon2 (Level Up)
+		Huntail (ATK > DEF)
+		Gorebyss (ATK < DEF)
+		Milotic (Water Stone)
+		Crobat (Level Up)
+		Blissey (Level Up)
+		Pichu (Level Up)
+		Cleffa (Level Up)
+		Igglybuff (Level Up)
+		Togetic (Level Up)
+		Azurill (Level Up)
+	Player will receive Kabuto, Omanyte, and Aerodactyl at lvl. 25
