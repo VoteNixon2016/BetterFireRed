@@ -16,9 +16,13 @@ Changes include:
 - Things that I think generally improve the game
 
 Sprite from:
+
 ChaosRush's DS-Style 64x64 Pokemon Sprite Resource
+
 https://www.pokecommunity.com/showthread.php?t=267728
 
 Fairy type, P/S Split, and new moves and abilities from:
+
 MrDollSteak's Decap. and Attack Rombase
+
 https://www.pokecommunity.com/showthread.php?t=326301
