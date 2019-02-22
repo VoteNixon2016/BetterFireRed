@@ -13,6 +13,7 @@ Changes include:
 - Infinite use TMs
 - Running indoors
 - Better Trainer battles
+- Team Rocket is competent
 - Things that I think generally improve the game
 
 Sprite from:
