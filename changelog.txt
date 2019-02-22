@@ -61,3 +61,10 @@ Version History
 		Togetic (Level Up)
 		Azurill (Level Up)
 	Player will receive Kabuto, Omanyte, and Aerodactyl at lvl. 25
+0.8.0
+	Fixed some MrDollSteak's Decap and Attack Rombase bugs
+	Added Sun and Moon stones to Celdaon Dept. Store
+	Added more Pokeballs to Saffron City PokeMart
+	Added Max Revive to Indigo Plateau store
+	Adjusted prices for EV items, Pokeballs
+	
